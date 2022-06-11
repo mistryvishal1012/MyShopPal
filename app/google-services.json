@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854994481866",
+    "project_id": "shop-app-b4c3c",
+    "storage_bucket": "shop-app-b4c3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854994481866:android:3256eb3d00a0f9eef53a33",
+        "android_client_info": {
+          "package_name": "com.myshoppal.college"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854994481866-tmi3qno3o6a0p98logjtjcav7f5ik7c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUsEgBOJforD2ucle-KOXb2G49RU0xs-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854994481866-tmi3qno3o6a0p98logjtjcav7f5ik7c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
